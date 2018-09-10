@@ -7,4 +7,4 @@ a web page for vr+
 ## 该项目仅使用为打包后的文件存放，用于部署githubpage
 
 
-演示地址： https://luozhanh.github.io/home
+演示地址： https://luozhanh.github.io/dist
